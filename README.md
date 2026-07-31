@@ -4,7 +4,7 @@ An executive Tableau dashboard analyzing Washington State electric vehicle regis
 
 The project was designed as a self-service analytical product that helps users quickly understand market concentration, manufacturer leadership, fleet composition, and data-quality limitations.
 
-> **Live dashboard:** [View on Tableau Public](ADD_TABLEAU_PUBLIC_URL_HERE)  
+> **Live dashboard:** [View on Tableau Public](https://public.tableau.com/authoring/EVDashboard_17855043253560/Dashboard1#1)  
 > **Portfolio case study:** [View portfolio project](ADD_PORTFOLIO_URL_HERE)
 
 ## Dashboard Preview
