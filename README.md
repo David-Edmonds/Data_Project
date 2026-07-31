@@ -5,7 +5,7 @@ An executive Tableau dashboard analyzing Washington State electric vehicle regis
 The project was designed as a self-service analytical product that helps users quickly understand market concentration, manufacturer leadership, fleet composition, and data-quality limitations.
 
 > **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/david.edmonds5066/viz/WashingtonEVMarketOverview/Dashboard1#1)  
-> **Portfolio case study:** [View portfolio project](https://davidedmonds-portfolio-f46ac7.webflow.io/) (Will be replaced with Case study link on site)
+> **Portfolio case study:** [View portfolio project](Documentation/Washington_EV_Market_Overview_Case_Study.pdf) 
 
 ## Dashboard Preview
 
